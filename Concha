@@ -1,0 +1,19 @@
+local KeySystemUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/MaGiXxScripter0/keysystemv2api/master/ui/xrer_mstudio45.lua"))()
+KeySystemUI.New({
+    ApplicationName = "FREEScripts", -- Your Key System Application Name
+    Name = "FREEScripts", -- Your Script name
+    Info = "Get Key For FREEScripts", -- Info text in the GUI, keep empty for default text.
+    DiscordInvite = "" -- Optional.
+})
+repeat task.wait() until KeySystemUI.Finished() or KeySystemUI.Closed
+if KeySystemUI.Finished() and KeySystemUI.Closed == false then
+    print("Key verified, can load script")
+    if game.PlaceId == 4924922222 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+    end
+    if game.PlaceId == 5712833750 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/AnimalSimulator.lua"))()
+    end
+else
+    print("Player closed the GUI.")
+end
