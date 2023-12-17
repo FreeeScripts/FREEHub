@@ -11,8 +11,8 @@
 # Script
 `loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader", true))()`
 
-
-> [!WARNING]
+# Discord Server
+> [!TIP]
 > **We have our Discord Server - [Free Hub](https://discord.gg/WWqUhNvHDt). Giveaways conduct every day!**
 
 
