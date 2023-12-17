@@ -1,7 +1,5 @@
 # Free Hub - New, Powerful Script Hub for Roblox.
-
-## Our hub uses Key System, which is made by MaGiXx
-
+- Our hub uses Key System, which is made by MaGiXx
 
 # How to Run Free Hub?
 - Firstly, you must download the executor. There are 2 powerful executors: [Arceus X Neo](https://spdmteam.com/index), [Delta X](https://deltaexploits.net/android).
