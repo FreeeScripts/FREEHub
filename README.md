@@ -11,8 +11,10 @@
 # Script
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader", true))()```
 
-> [!WARNING]
-> We have our Discord Server - [Free Hub](https://discord.gg/WWqUhNvHDt). Giveaways conduct every day! 
+
+# > [!WARNING]
+# > We have our Discord Server - [Free Hub](https://discord.gg/WWqUhNvHDt). Giveaways conduct every day! 
+
 
 # Supported Games
  - Arsenal
