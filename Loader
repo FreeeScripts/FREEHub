@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://gitlab.com/main-sub/Free-Hub/-/raw/main/Loader", true))()
+-- Join for key https://discord.gg/WWqUhNvHDt
