@@ -1,6 +1,6 @@
 # Free Hub - New, Powerful Script Hub for Roblox.
 
-#### Our hub uses Key System, which is made by MaGiXx
+## Our hub uses Key System, which is made by MaGiXx
 #### We have our Discord Server - https://discord.gg/WWqUhNvHDt
 
 # How to Run Free Hub?
@@ -10,6 +10,9 @@
 
 # Script
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader", true))()```
+
+> [!WARNING]
+> We have our Discord Server - [Free Hub](https://discord.gg/WWqUhNvHDt). Giveaways conduct every day! 
 
 # Supported Games
  - Arsenal
