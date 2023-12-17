@@ -9,7 +9,9 @@
 - After this, join the game by some emulator, and execute this script. Click the button **execute from clipboard**.
 
 # Script
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader", true))()`
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader", true))()
+```
 
 # Discord Server
 > [!TIP]
